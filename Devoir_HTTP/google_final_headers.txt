@@ -1,0 +1,56 @@
+HTTP/1.1 302 Found
+Location: https://consent.google.com/ml?continue=https://www.google.com/search%3Fq%3Davion&gl=BE&m=0&pc=srp&uxe=none&cm=2&hl=fr&src=1
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy: object-src 'none';base-uri 'self';script-src 'nonce-Vef_GCRBuLGr5YkDsLKMFg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/xsrp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Sat, 01 Nov 2025 13:44:58 GMT
+Server: gws
+Content-Length: 348
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: AEC=AaJma5t9GNqYqZPryFSb0E-1GX-2vkj79npb5o8WPI0oYa2U_bYZvjymTpI; expires=Thu, 30-Apr-2026 13:44:58 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: __Secure-ENID=29.SE=YMI9-j2rlL9a5PVLya99Sh6vDbgC8k9VdlKC5emp0xaINAEtG7RJEp0U5P4lYXI6FpmBxrRZOjjia4zYZm1_tBCNt6rsMzZtkTrigxFTS_-7XUWmi6U3Es-tLbyn9gktC_MfyUqbgIG26P2i6yTDSu5iVqN-z6PcveZ2ucOiVz7nOlAxjZH8pAnkoSSH8G7TZg_Y032z9AW-M_LzrnxdRluZzz7MESYqK7geqB2qgr8sbQV9YJa7eFQ2ZFgQbA; expires=Wed, 02-Dec-2026 06:03:16 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/1.1 303 See Other
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sat, 01 Nov 2025 13:44:58 GMT
+Location: https://www.google.com/search?q=avion&ucbcb=1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Cross-Origin-Opener-Policy: unsafe-none
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+Content-Security-Policy: script-src 'report-sample' 'nonce-_36F6_odafC_gXHfOT2_IQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/ConsentHttp/cspreport;worker-src 'self'
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/ConsentHttp/cspreport
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Cross-Origin-Resource-Policy: same-site
+Server: ESF
+Content-Length: 0
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: __Secure-ENID=29.SE=MXAgW4yp9EwyP-z2tM7gEqjQo-xQGyCzjgG6tj-n8frjbu46QaxCgFnvJkCyQ33MugdXTkmZUbmPeTL-vZsJEnODLVfmU2I7A4ko7iCN8k_5c5piLhEPnVNt0SdwprMs5DPz8OVfF-XkL-nQhcuFhjtgHY-eTELHmE_dV8RpGTZZjKEVZ4XpJMhTRxyEiG3xgvxmFRTX8be0lJ6CBR5UL302qxGogHEmz5dckruc0dq_s68; expires=Wed, 02-Dec-2026 06:03:16 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy: object-src 'none';base-uri 'self';script-src 'nonce-Pmjen5Nl_tF_ppS3J_ycVw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/xsrp
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Sat, 01 Nov 2025 13:44:58 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Sat, 01 Nov 2025 13:44:58 GMT
+Cache-Control: private
+Set-Cookie: SOCS=CAAaBgiAm5XIBg; expires=Tue, 01-Dec-2026 13:44:58 GMT; path=/; domain=.google.com; Secure; SameSite=lax
+Set-Cookie: AEC=AaJma5uYn5sJh7ONYunCZtMFfhY9YR0_mD4Fb2qBuB8nC23s_Qdb3q207A; expires=Thu, 30-Apr-2026 13:44:58 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: __Secure-ENID=29.SE=dQrNX1MXi9JYsyEHeTwCu3NJBH1SVc6kVf571ltEWA3U-6J-ni-Dnhqu8vpQgA1jYrzbTi2y31FSs5h4ICc5XERxH9yvOPhaooS5dAXHzTDv2v43s_wpL1oh-zd-PreBeTEpB8FLQxcBPJPZx9LcrD4ynEj1J2q61blMdJUmFuKOFsuM269PrkTDfk1JmjVmeimY6vv-5CNuZPTG7p_tZ3OuXhx3Ny3S6E64W519oVPyFE6X7RrAaPKQlMUyYhA0CQ; expires=Wed, 02-Dec-2026 06:03:16 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
